@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @RezyRoc just started coding my first Solana token
+- 👋 Hi, I’m @Rez
 - 👀 I’m interested in learning cool stuff
-- 🌱 I’m currently learning Solana ecosystem
 - 💞️ I’m looking to collaborate on worldchanging projects
 - 📫 How to reach me .rezyroc@gmail.com
 
